@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
 
 # 💫 About Me:
-Currently mastering my Java skills while getting curious about AWS and Terraform.<br><br>Decent chess player, average bicycle rider, terrible pianist.
+<br>Decent chess player, average bicycle rider, terrible pianist.
 
 
 # 💻 Tech Stack:
