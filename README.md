@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
 
 # 💫 About Me:
-<br>Decent chess player, average bicycle rider, terrible pianist.
+Decent chess player, average bicycle rider, terrible pianist.
 
 
 # 💻 Tech Stack:
